@@ -1,0 +1,24 @@
+RCP - Aymen
+
+Menu Principal 
+	Pedagogie
+	Rapport
+
+Pedagogie
+	Gestion de devis ministériels
+		Accès aux devis ministériels du département uniquement
+		Doit contacter administrateur.
+		Ne peut pas ajouter.
+
+	Gestion des plan cadre
+		Accès aux plan cadre du département
+		Doit contacter administrateur.
+		Ne peut pas ajouter.
+
+	Gestion des grilles de cours
+		Peut ajouter dans le département.
+		Peut supprimer
+		Peut modifier
+		Ne peut pas ajouter des cours a une grille
+		Les grilles ne sont pas lisible
+**Rapport**
